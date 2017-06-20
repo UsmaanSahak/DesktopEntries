@@ -1,0 +1,11 @@
+!usr/bin/env xdg-open
+
+[Desktop Entry]
+version=1.0
+Type=Application
+Terminal=false
+Exec=chromium-browser --incognito
+Name=Chromium Web
+Comment=Opens Chromium in incognito mode.
+Icon=/home/uas/Documents/PrivateChromium/icon.png
+
