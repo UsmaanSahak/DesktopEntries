@@ -6,5 +6,5 @@ Type=Application
 Terminal=false
 Exec=python3 /path/to/exec/webFill.py
 Name=Discord Launcher
-Comment=Opens Chromium in incognito mode, goes to Discord.
+Comment=Logs into Discord from an incognito chromium window.
 Icon=/path/to/icon/logoDiscord.png

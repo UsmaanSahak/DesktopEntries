@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-options = webdriver.ChromeOptions()
+options = webdriver.ChromeOptions()#Just fill cmdLine parameters
 options.add_argument('--incognito')
 options.add_argument('--password-store=basic')
 options.binary_location = "/path/to/exec/chromium-browser"
