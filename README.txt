@@ -5,3 +5,5 @@ All new Desktop Entries will be added in this repository; They will recieve an e
 pChromium - Runs Chromium in incognito mode.
 
 pFirefox - Runs Firefox in private window.
+
+discord.desktop - Runs webFill.py to open and log into Discord.
