@@ -1,0 +1,10 @@
+#!usr/bin/env xdg-open
+
+[Desktop Entry]
+version=1.0
+Type=Application
+Terminal=false
+Exec=python3 /path/to/exec/webFill.py
+Name=Discord Launcher
+Comment=Opens Chromium in incognito mode, goes to Discord.
+Icon=/path/to/icon/logoDiscord.png
